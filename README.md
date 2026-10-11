@@ -1,4 +1,4 @@
-# TP — Data Quality & Data Warehouse
+# TP - Data Quality & Data Warehouse
 
 Ce dépôt contient les travaux pratiques du cours de **Data Quality** et de **Data Warehouse / Architecture décisionnelle** à l'EPSI.
 
@@ -39,7 +39,7 @@ L'utilisation native de Windows reste possible, mais peut nécessiter quelques a
 Dans un terminal, placez-vous dans le dossier de votre choix puis exécutez :
 
 ```bash
-git clone <URL_DU_REPO>
+git clone https://github.com/thibaultclement/epsi-dq-dwh-tp
 ```
 
 Puis :
@@ -147,14 +147,8 @@ Le chemin doit pointer vers le dossier `.venv` du projet.
 Certaines cellules contiennent des zones à compléter :
 
 ```python
-# =========================
-# START CODE HERE
-# =========================
+# Votre réponse
 
-
-# =========================
-# END CODE HERE
-# =========================
 ```
 
 Ne modifiez que les parties demandées.
@@ -180,3 +174,5 @@ uv sync
 ```
 
 Les TP déjà publiés sont autant que possible conservés sans modification afin d'éviter les conflits avec votre travail local.
+
+Attention : avant d'exécuter git pull, sauvegardez vos modifications. Pour éviter les conflits, il est recommandé de travailler sur une copie personnelle des notebooks. Les nouveaux TP seront ajoutés progressivement au dépôt.
